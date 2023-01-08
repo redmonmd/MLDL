@@ -4,8 +4,8 @@ this is a simple approach to a scratch pad for projects outside of this repo but
 
 -redmonmd
 
-// todo 
-[ ] create a workflow for repo 
-[ ] write a better README
-[ ] configure workflow
+## TODO 
+- [ ] create a workflow for repo 
+- [ ] write a better README 
+- [ ] configure workflow 
 etc. etc. etc.
